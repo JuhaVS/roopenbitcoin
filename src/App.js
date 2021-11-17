@@ -31,9 +31,13 @@ function App() {
     setN(a)
     setM(b)
     
+    const current = new Date().getTime()/1000
 
-    if(a > b){
-      alert("Yritä uudestaan")
+    //Tarkistaan ettei haku ylitä nykyistä päivämäärää tai ettei aloituspäivä ole myöhäisempi kuin lopetuspäivä
+
+    if(a > b || b > current || a > current){
+      alert("Check the dates")
+      console.log(current)
     }
 else {
     // Haetaan tiedot päivämäärien perusteella

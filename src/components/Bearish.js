@@ -63,7 +63,6 @@ const Bearish = ({ data, m, n }) => {
         for (let i = 24; i < data.prices.length; i = i + 24) {
             if (data.prices[i][1] < first) {
                 first = data.prices[i][1]
-                console.log(data.prices[i][1])
                 compare++
             }
             else {
