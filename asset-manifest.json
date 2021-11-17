@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/roopenbitcoin/static/css/main.165d3253.chunk.css",
-    "main.js": "/roopenbitcoin/static/js/main.7f10171c.chunk.js",
-    "main.js.map": "/roopenbitcoin/static/js/main.7f10171c.chunk.js.map",
+    "main.js": "/roopenbitcoin/static/js/main.72907d6e.chunk.js",
+    "main.js.map": "/roopenbitcoin/static/js/main.72907d6e.chunk.js.map",
     "runtime-main.js": "/roopenbitcoin/static/js/runtime-main.2dd81823.js",
     "runtime-main.js.map": "/roopenbitcoin/static/js/runtime-main.2dd81823.js.map",
     "static/js/2.1cadf64c.chunk.js": "/roopenbitcoin/static/js/2.1cadf64c.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.2dd81823.js",
     "static/js/2.1cadf64c.chunk.js",
     "static/css/main.165d3253.chunk.css",
-    "static/js/main.7f10171c.chunk.js"
+    "static/js/main.72907d6e.chunk.js"
   ]
 }
