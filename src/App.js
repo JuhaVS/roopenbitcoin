@@ -30,7 +30,12 @@ function App() {
     let b = new Date(date2).getTime() / 1000 + 7200
     setN(a)
     setM(b)
+    
 
+    if(a > b){
+      alert("Yritä uudestaan")
+    }
+else {
     // Haetaan tiedot päivämäärien perusteella
 
     const url = 'https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=eur&from=' + a + '&to=' + b
@@ -42,7 +47,7 @@ function App() {
       })
 
   }
-
+}
   return (
     <div>
       <div id="search">
