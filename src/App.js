@@ -83,12 +83,12 @@ function App() {
   
       <p>Example: In bitcoin’s historical data from CoinGecko, the price decreased 3 days in a row for the
       inputs from 2020-01-19 and to 2020-01-21, and the price decreased for 5 days in a row for the
-      inputs from 2020-03-01 and to 2021-08-01</p>
+      inputs from 2020-03-01 and to 2021-08-01.</p>
 
-      <p>Yläpuolella olevassa tehtävän annossa, jos laskuun mukaan otetaan päivä, josta lasku lähtee niin 1.3.2020 - 1.8.2020 välillä se 
+      <p>Yläpuolella olevassa tehtävänannossa, jos laskuun mukaan otetaan päivä, josta lasku lähtee niin 1.3.2020 - 1.8.2020 välillä se 
         laski 6 päivänä putkeen CoinGeckon tietojen mukaan.</p>
 
-      <p>Mikäli ensimmäistä päivää ei lasketa mukaan laski se taas vastaavasti 19.1.2020-21.1.2020 välisenä aikana 2</p>
+      <p>Mikäli ensimmäistä päivää ei lasketa mukaan laski se taas vastaavasti 19.1.2020-21.1.2020 välisenä aikana 2.</p>
 
       </div>
     </div>
