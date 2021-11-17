@@ -87,8 +87,6 @@ function App() {
 
       <p>Yläpuolella olevan tehtävänannon mukaan bitcoinin arvo laski aikavälillä 1.3.2020 - 1.8.2021 5 päivää, mutta CoinGeckon tietojen mukaan se laski 9 päivää.</p>
 
-      <p>Mikäli ensimmäistä päivää ei lasketa mukaan laski bitcoinin arvo taas vastaavasti 19.1.2020-21.1.2020 välisenä aikana 2 päivää.</p>
-
       </div>
     </div>
    
