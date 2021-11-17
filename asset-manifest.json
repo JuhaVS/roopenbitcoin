@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/roopenbitcoin/static/css/main.089112fd.chunk.css",
+    "main.js": "/roopenbitcoin/static/js/main.b470c276.chunk.js",
+    "main.js.map": "/roopenbitcoin/static/js/main.b470c276.chunk.js.map",
+    "runtime-main.js": "/roopenbitcoin/static/js/runtime-main.2dd81823.js",
+    "runtime-main.js.map": "/roopenbitcoin/static/js/runtime-main.2dd81823.js.map",
+    "static/js/2.1cadf64c.chunk.js": "/roopenbitcoin/static/js/2.1cadf64c.chunk.js",
+    "static/js/2.1cadf64c.chunk.js.map": "/roopenbitcoin/static/js/2.1cadf64c.chunk.js.map",
+    "index.html": "/roopenbitcoin/index.html",
+    "static/css/main.089112fd.chunk.css.map": "/roopenbitcoin/static/css/main.089112fd.chunk.css.map",
+    "static/js/2.1cadf64c.chunk.js.LICENSE.txt": "/roopenbitcoin/static/js/2.1cadf64c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2dd81823.js",
+    "static/js/2.1cadf64c.chunk.js",
+    "static/css/main.089112fd.chunk.css",
+    "static/js/main.b470c276.chunk.js"
+  ]
+}
